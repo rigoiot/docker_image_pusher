@@ -1,17 +1,21 @@
+#opencluod
+ghcr.io/moghtech/komodo-core:latest
+ghcr.io/moghtech/komodo-periphery:latest
+
 # nextcloud
-ghcr.io/nextcloud-releases/all-in-one:latest
-ghcr.io/nextcloud-releases/aio-nextcloud:latest
-ghcr.io/nextcloud-releases/aio-talk:latest
-ghcr.io/nextcloud-releases/aio-imaginary:latest
-ghcr.io/nextcloud-releases/aio-fulltextsearch:latest
-ghcr.io/nextcloud-releases/aio-collabora:latest
-ghcr.io/nextcloud-releases/aio-postgresql:latest
-ghcr.io/nextcloud-releases/aio-apache:latest
-ghcr.io/nextcloud-releases/aio-watchtower:latest
-ghcr.io/nextcloud-releases/aio-redis:latest
-ghcr.io/nextcloud-releases/aio-notify-push:latest
-ghcr.io/nextcloud-releases/aio-borgbackup:latest
-ghcr.io/nextcloud-releases/aio-whiteboard:latest
+#ghcr.io/nextcloud-releases/all-in-one:latest
+#ghcr.io/nextcloud-releases/aio-nextcloud:latest
+#ghcr.io/nextcloud-releases/aio-talk:latest
+#ghcr.io/nextcloud-releases/aio-imaginary:latest
+#ghcr.io/nextcloud-releases/aio-fulltextsearch:latest
+#ghcr.io/nextcloud-releases/aio-collabora:latest
+#ghcr.io/nextcloud-releases/aio-postgresql:latest
+#ghcr.io/nextcloud-releases/aio-apache:latest
+#ghcr.io/nextcloud-releases/aio-watchtower:latest
+#ghcr.io/nextcloud-releases/aio-redis:latest
+#ghcr.io/nextcloud-releases/aio-notify-push:latest
+#ghcr.io/nextcloud-releases/aio-borgbackup:latest
+#ghcr.io/nextcloud-releases/aio-whiteboard:latest
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
