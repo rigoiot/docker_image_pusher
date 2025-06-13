@@ -1,5 +1,5 @@
 #mongo
-mongo:latest
+--platform=linux/amd64 mongo:latest
 
 #opencluod
 #ghcr.io/moghtech/komodo-core:latest
