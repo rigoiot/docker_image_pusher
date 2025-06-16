@@ -1,9 +1,12 @@
+# minio
+ghcr.io/astrateam-net/minio-browser:1.7.6
+
 #mongo
---platform=linux/amd64 mongo:latest
+#--platform=linux/amd64 mongo:latest
 
 #opencluod
-ghcr.io/moghtech/komodo-core:latest
-ghcr.io/moghtech/komodo-periphery:latest
+#ghcr.io/moghtech/komodo-core:latest
+#ghcr.io/moghtech/komodo-periphery:latest
 
 # nextcloud
 #ghcr.io/nextcloud-releases/all-in-one:latest
