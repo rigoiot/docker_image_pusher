@@ -1,5 +1,5 @@
 # docker-volume-backup
-offen/docker-volume-backup:2.43.4
+offen/docker-volume-backup:v2
 
 # minio
 # ghcr.io/astrateam-net/minio-browser:1.7.6
