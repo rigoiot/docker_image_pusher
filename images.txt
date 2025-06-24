@@ -1,5 +1,8 @@
+# docker-volume-backup
+offen/docker-volume-backup:2.43.4
+
 # minio
-ghcr.io/astrateam-net/minio-browser:1.7.6
+# ghcr.io/astrateam-net/minio-browser:1.7.6
 
 #mongo
 #--platform=linux/amd64 mongo:latest
