@@ -1,5 +1,5 @@
 # docker-volume-backup
-offen/docker-volume-backup:v2
+# offen/docker-volume-backup:v2
 
 # minio
 # ghcr.io/astrateam-net/minio-browser:1.7.6
@@ -8,8 +8,8 @@ offen/docker-volume-backup:v2
 #--platform=linux/amd64 mongo:latest
 
 #opencluod
-#ghcr.io/moghtech/komodo-core:latest
-#ghcr.io/moghtech/komodo-periphery:latest
+ghcr.io/moghtech/komodo-core:latest
+ghcr.io/moghtech/komodo-periphery:latest
 
 # nextcloud
 #ghcr.io/nextcloud-releases/all-in-one:latest
