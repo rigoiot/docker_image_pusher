@@ -1,3 +1,6 @@
+# portainer
+portainer/portainer-ce:latest
+
 # docker-volume-backup
 # offen/docker-volume-backup:v2
 
@@ -8,8 +11,8 @@
 #--platform=linux/amd64 mongo:latest
 
 #opencluod
-ghcr.io/moghtech/komodo-core:latest
-ghcr.io/moghtech/komodo-periphery:latest
+#ghcr.io/moghtech/komodo-core:latest
+#ghcr.io/moghtech/komodo-periphery:latest
 
 # nextcloud
 #ghcr.io/nextcloud-releases/all-in-one:latest
