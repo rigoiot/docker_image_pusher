@@ -1,5 +1,6 @@
+ghcr.io/armbian/docker-armbian-build:armbian-ubuntu-noble-latest
 # portainer
-portainer/portainer-ce:sts
+# portainer/portainer-ce:sts
 
 # docker-volume-backup
 # offen/docker-volume-backup:v2
