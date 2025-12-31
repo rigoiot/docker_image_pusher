@@ -1,4 +1,5 @@
-ghcr.io/armbian/docker-armbian-build:armbian-ubuntu-noble-latest
+emqx/neuronex:3.7.1-ai
+# ghcr.io/armbian/docker-armbian-build:armbian-ubuntu-noble-latest
 # portainer
 # portainer/portainer-ce:sts
 
